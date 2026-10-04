@@ -6,8 +6,8 @@
 class Devtrim < Formula
   desc "Developer-machine disk hygiene for macOS: measure, classify, trim - safely"
   homepage "https://mneves75.github.io/devtrim/"
-  url "https://github.com/mneves75/devtrim/releases/download/v0.10.6/devtrim-0.10.6-macos-arm64.zip"
-  sha256 "3cee0095a10508b43a46ee9d95f87c1aff7f522c64017f9cf5a57b8809923d2b"
+  url "https://github.com/mneves75/devtrim/releases/download/v0.10.7/devtrim-0.10.7-macos-arm64.zip"
+  sha256 "6e00356ae6d44b314afc826e0877773846b0c8e774a16de94e97365d1a5a4a38"
   license "Apache-2.0"
 
   depends_on arch: :arm64
